@@ -2,20 +2,19 @@
 /* CSS Document */
 
 body{
-	background-image: url("paris background.jpg")
+	background-color: antiquewhite;
+		text-align: center
+		
 }
-
-		h2{
-background-color: white;
-text-align: center
+h2{
+	background-color: white;
+	text-align: center
+	
 }
-
 div{
 	background: #88583F;
 	text-align: center
 }
 div {
-	background: #EADDCA;
-	margin-center:50px;
-	margin-top:20px;
+	background-image: url("cloud.jpg")
 }
